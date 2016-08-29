@@ -1,0 +1,36 @@
+body {
+    font-family: 'Lato', sans-serif;
+    color: black;
+    background-color:white;
+}
+
+div.wrapper{
+    text-align:center;
+}
+
+#header-image {
+    background-color:ghostwhite;
+    color:black;
+    height:10em;
+    text-align:center;
+    margin:auto;
+    font-size:2em;
+}
+
+
+#entry-title {
+}
+
+div.entry-text{
+    height:80vh;
+    width:500px;
+    background-color:ghostwhite;
+    text-align:center;
+    padding:2em 2em 2em 2em;
+    margin:auto;
+    border-radius:1em;
+    /*
+    border-style:hidden;
+    border-color:none;
+    */
+}
