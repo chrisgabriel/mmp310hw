@@ -1,0 +1,19 @@
+body{
+    font-family:sans-serif;
+
+}
+h1{
+    color:white;
+}
+p{background-color:white;
+}
+.stuff{
+    text-align:center;
+}
+
+.hide{
+    visibility:hidden;
+}
+
+.show{
+}
